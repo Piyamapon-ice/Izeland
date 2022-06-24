@@ -3,7 +3,7 @@ https://github.com/Piyamapon-ice/Piyamapon-ice
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,react,ts)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=postgres,mysql)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,nodejs,nestjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=ps,visualstudio,wordpress)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=github,git)](https://skillicons.dev)
 
